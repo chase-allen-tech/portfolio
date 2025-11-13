@@ -1,0 +1,44 @@
+{
+    "hi": "Hi, I'm",
+    "1": {
+        "0": "Developed and deployed data pipelines using Databricks for large-scale data processing.",
+        "1": "Implemented CI/CD workflows in Jenkins to automate Databricks notebook deployment and job scheduling.",
+        "2": "Designed and deployed Databricks Serving Endpoints for real-time ML model inference using Golang.",
+        "3": "Designed and implemented Python-based machine learning models for pattern recognition and predictive analytics.",
+        "4": " Created automation scripts in Python to preprocess and clean large datasets for AI training.",
+        "5": "Developed deep learning workflows using Python libraries to support natural language processing and computer vision projects.",
+        "6": "Built and maintained Databricks SQL queries, dashboards, and alerting mechanisms for business insights.",
+        "7": "Created AWS Lambda functions to proxy API requests through DynamoDB to Databricks endpoints, enabling secured access.",
+        "8": "Conducted rigorous testing of serving endpoints and Lambda integrations to ensure reliability and performance."
+    },
+    "2": {
+        "0": "Built and deployed a Slack bot in Python to automate team workflows and streamline communication within Slack channels.",
+        "1": "Added AI-driven features to the bot, including natural language understanding and decision support to make interactions more intuitive.",
+        "2": "Designed and ran three simulation types to test and model real-world use cases, helping teams visualize different scenarios before rollout.",
+        "3": "Used a GenAI engine to fine-tune performance and generate intelligent insights from complex datasets.",
+        "4": "Leveraged AWS Lambda for serverless execution, which improved scalability and reduced infrastructure overhead.",
+        "5": "Created interactive data visualizations in React and TypeScript, integrating dynamic charts and tables for richer reporting dashboards.",
+        "6": "Added draggable UI cards and other interactive elements to enhance engagement and make interfaces more customizable.",
+        "7": "Implemented WebSockets for real-time client-server communication, ensuring data updates appeared instantly across connected users."
+    },
+    "3": {
+        "0": "Built and maintained high-performance applications in Golang and Python, emphasizing scalability, fault tolerance, and real-world reliability.",
+        "1": "Created and maintained Helm charts to simplify containerized deployments across multiple environments, reducing setup complexity for the ops team.",
+        "2": "Automated CI/CD workflows with Jenkins, cutting release times and ensuring consistent deployment quality across services.",
+        "3": "Managed container orchestration and load balancing to guarantee high availability and efficient resource use.",
+        "4": "Integrated JFrog Mission Control for artifact management, improving software distribution and version control across teams."
+    },
+    "4": {
+        "0": "Involved in SDLC phases including requirement gathering, data modeling, analysis, architecture design & development of theproject.",
+        "1": "Responsible for developing use cases, sequence diagrams, class diagrams, state chart diagrams using UML notations &Rational Rose.",
+        "2": "Constructed solutions to solve business requirements in an efficient way for e-learning.",
+        "3": "Proposed and led data schema changes of Python/Django application that improved the product with minimum effort tech debts.",
+        "4": "Golang REST API development which is handling different APIs for system management including real-time chat, MySQL & MongoDB management, Zoom, Vimeo, Docusign API integration, security in Linux env."
+    },
+    "5": {
+        "0" : "Followed Agile methodology to promote development process with 2 weeks of iteration and daily SCRUM meetings throughout the life cycle of the project.",
+        "1" : "Involved in implementation of procedures for gathering the requirements from clients for solution demonstrations.",
+        "2" : "Migrated the existing python/django application to golang based GRPC.",
+        "3" : "Developed new RESTful API services that work as a middleware between our application and third-party APIs that we will used using Golang."
+    }
+}
